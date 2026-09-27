@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo/catwaf-logo.png" alt="CatWAF" width="220"/>
+<img src="logo/logo/catwaf-icon-512.png" alt="CatWAF" width="220"/>
 
 # CatWAF Free
 
