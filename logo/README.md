@@ -7,4 +7,3 @@
 | `apple-touch-icon.png` | 180×180, standard iOS/bookmark icon size. |
 | `favicon.ico` | 16/32/48px multi-size favicon for the browser tab. |
 
-All transparent PNGs — they'll sit cleanly on both light and dark backgrounds (e.g. GitHub's dark mode) without a visible box around them.
